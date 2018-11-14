@@ -14,3 +14,10 @@ if you have untracked files they'll show up
 and you can use git add to add the files to be tracked
 
 
+git commit -m "" [pathname]
+Allows you to commit the changes
+to the working tree
+
+
+
+
