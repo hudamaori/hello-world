@@ -1,0 +1,16 @@
+How to create a repository
+Make a directory to contain your program
+Make a repository in github
+Copy the repository's address
+use the 
+git clone (url)
+to clone the repo to the current dir
+If you create a file then use
+git add (filename)
+to add the file to the list of stuff that gets updated
+git status
+shows you the state of the files
+if you have untracked files they'll show up
+and you can use git add to add the files to be tracked
+
+
